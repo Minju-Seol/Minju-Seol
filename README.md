@@ -6,7 +6,7 @@ Graduate student at the [CMME Lab](https://sites.google.com/view/yoonlabyonsei/)
 
 - **Integrated M.S./Ph.D. Program** in Computational Science and Engineering, School of Mathematics, **Yonsei University**, Seoul, Repulic of Korea (*Sep 2024 – Present*)
 - **B.S.** in Mathematics, **Ewha Womans University**, Seoul, Repulic of Korea (*Mar 2020 – Aug 2024*)
-- **Completed Teacher Training Course** (Secondary School Mathematics)
+- Obtained a **Grade II Secondary School Teacher Certificate in Mathematics**
 
 ### 💻 Research Interests
 
