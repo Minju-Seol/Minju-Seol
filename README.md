@@ -1,6 +1,6 @@
 ## 🍀 Minju Seol
 
-Graduate student at the [CMME Lab](https://sites.google.com/view/yoonlabyonsei/), Yonsei University, researching transcranial focused ultrasound systems.
+Ph.D. student at the [CMME Lab](https://sites.google.com/view/yoonlabyonsei/), Yonsei University, researching transcranial focused ultrasound systems.
 
 ### 🎓 Education
 
