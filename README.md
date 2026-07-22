@@ -32,5 +32,5 @@ Ph.D. student at the [CMME Lab](https://sites.google.com/view/yoonlabyonsei/), Y
 ### 📫 Contact
 
 - **Email:** sulmj01@yonsei.ac.kr
-- **Personal Website:** Coming Soon
+- **Personal Website:** https://minju-seol.github.io/
 
